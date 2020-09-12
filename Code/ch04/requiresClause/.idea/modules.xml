@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/com.apress.moduleA/com.apress.moduleA.iml" filepath="$PROJECT_DIR$/src/com.apress.moduleA/com.apress.moduleA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/com.apress.moduleB/com.apress.moduleB.iml" filepath="$PROJECT_DIR$/src/com.apress.moduleB/com.apress.moduleB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/requiresClause.iml" filepath="$PROJECT_DIR$/.idea/requiresClause.iml" />
+    </modules>
+  </component>
+</project>
